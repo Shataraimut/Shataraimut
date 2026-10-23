@@ -13,7 +13,7 @@
     <img alt="Repositories" src="https://img.shields.io/badge/repositories-view-0b0d10?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/Shataraimut/sebas-kit">
-    <img alt="sebas-kit" src="https://img.shields.io/badge/sebastian--kit-opencode%20installer-c0392b?style=for-the-badge&logo=gnubash&logoColor=white" />
+    <img alt="sebas-kit" src="https://img.shields.io/badge/sebas--kit-opencode%20all-in-one-c0392b?style=for-the-badge&logo=gnubash&logoColor=white" />
   </a>
   <a href="https://github.com/Shataraimut/sebas-kit/releases">
     <img alt="Latest release" src="https://img.shields.io/github/v/release/Shataraimut/sebas-kit?style=for-the-badge&color=e67e22" />
@@ -36,13 +36,13 @@ Documentation that respects the reader.
 
 <div align="center">
   <a href="https://github.com/Shataraimut/sebas-kit">
-    <img src="https://raw.githubusercontent.com/Shataraimut/sebastian-kit/main/assets/banner.svg" alt="sebas-kit" width="100%" />
+    <img src="https://raw.githubusercontent.com/Shataraimut/sebas-kit/main/assets/banner.svg" alt="sebas-kit" width="100%" />
   </a>
 </div>
 
-**sebastian-kit** turns one persona source into an opencode skill, a primary
-agent, and per-task commands — with automatic config detachment and
-timestamped backups.
+**sebas-kit** merges the SEBASTIAN persona with a refusal-suppression layer into
+one skill, ships an optional 4-layer enforcer plus MCP server, and keeps every
+config change reversible.
 
 <p>
   <a href="https://github.com/Shataraimut/sebas-kit">
