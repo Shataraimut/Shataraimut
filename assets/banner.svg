@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Shataraimut">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0d10"/>
+      <stop offset="0.6" stop-color="#0f1318"/>
+      <stop offset="1" stop-color="#1a1310"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c0392b"/>
+      <stop offset="0.5" stop-color="#e67e22"/>
+      <stop offset="1" stop-color="#c0392b" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+    </pattern>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="26"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#grid)"/>
+  <g filter="url(#soft)" opacity="0.35">
+    <circle cx="1080" cy="90" r="90" fill="#c0392b"/>
+    <circle cx="960" cy="270" r="70" fill="#e67e22"/>
+  </g>
+  <rect x="72" y="96" width="72" height="4" rx="2" fill="url(#line)"/>
+  <g font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="72" y="168" fill="#f5f1ea" font-size="62" font-weight="700" letter-spacing="4">SHATARAIMUT</text>
+    <text x="75" y="212" fill="#9aa3ad" font-size="21" letter-spacing="0.6">Developer · Security tooling · Automation</text>
+    <text x="75" y="252" fill="#6f7781" font-size="15" letter-spacing="0.4">github.com/Shataraimut</text>
+    <g transform="translate(1004 132)" opacity="0.9">
+      <path d="M32 0 L64 18 L64 46 C64 68 49 82 32 90 C15 82 0 68 0 46 L0 18 Z"
+            fill="none" stroke="#c0392b" stroke-width="3"/>
+      <path d="M20 44 L29 53 L45 33" fill="none" stroke="#e67e22" stroke-width="3.5"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>
