@@ -12,11 +12,11 @@
   <a href="https://github.com/Shataraimut?tab=repositories">
     <img alt="Repositories" src="https://img.shields.io/badge/repositories-view-0b0d10?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/Shataraimut/sebastian-kit">
-    <img alt="sebastian-kit" src="https://img.shields.io/badge/sebastian--kit-opencode%20installer-c0392b?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <a href="https://github.com/Shataraimut/sebas-kit">
+    <img alt="sebas-kit" src="https://img.shields.io/badge/sebastian--kit-opencode%20installer-c0392b?style=for-the-badge&logo=gnubash&logoColor=white" />
   </a>
-  <a href="https://github.com/Shataraimut/sebastian-kit/releases">
-    <img alt="Latest release" src="https://img.shields.io/github/v/release/Shataraimut/sebastian-kit?style=for-the-badge&color=e67e22" />
+  <a href="https://github.com/Shataraimut/sebas-kit/releases">
+    <img alt="Latest release" src="https://img.shields.io/github/v/release/Shataraimut/sebas-kit?style=for-the-badge&color=e67e22" />
   </a>
 </p>
 
@@ -35,8 +35,8 @@ Documentation that respects the reader.
 ## Featured
 
 <div align="center">
-  <a href="https://github.com/Shataraimut/sebastian-kit">
-    <img src="https://raw.githubusercontent.com/Shataraimut/sebastian-kit/main/assets/banner.svg" alt="sebastian-kit" width="100%" />
+  <a href="https://github.com/Shataraimut/sebas-kit">
+    <img src="https://raw.githubusercontent.com/Shataraimut/sebastian-kit/main/assets/banner.svg" alt="sebas-kit" width="100%" />
   </a>
 </div>
 
@@ -45,17 +45,17 @@ agent, and per-task commands — with automatic config detachment and
 timestamped backups.
 
 <p>
-  <a href="https://github.com/Shataraimut/sebastian-kit">
+  <a href="https://github.com/Shataraimut/sebas-kit">
     <img alt="Repository" src="https://img.shields.io/badge/repository-sebastian--kit-0b0d10?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/Shataraimut/sebastian-kit#readme">
+  <a href="https://github.com/Shataraimut/sebas-kit#readme">
     <img alt="Docs" src="https://img.shields.io/badge/docs-readme-1f6feb?style=flat-square&logo=readthedocs&logoColor=white" />
   </a>
-  <a href="https://github.com/Shataraimut/sebastian-kit/blob/main/LICENSE">
-    <img alt="License" src="https://img.shields.io/github/license/Shataraimut/sebastian-kit?style=flat-square&color=4caf72" />
+  <a href="https://github.com/Shataraimut/sebas-kit/blob/main/LICENSE">
+    <img alt="License" src="https://img.shields.io/github/license/Shataraimut/sebas-kit?style=flat-square&color=4caf72" />
   </a>
-  <a href="https://github.com/Shataraimut/sebastian-kit/actions">
-    <img alt="CI" src="https://img.shields.io/github/actions/workflow/status/Shataraimut/sebastian-kit/ci.yml?style=flat-square&label=ci" />
+  <a href="https://github.com/Shataraimut/sebas-kit/actions">
+    <img alt="CI" src="https://img.shields.io/github/actions/workflow/status/Shataraimut/sebas-kit/ci.yml?style=flat-square&label=ci" />
   </a>
 </p>
 
