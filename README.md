@@ -82,7 +82,7 @@ timestamped backups.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shataraimut&hide_border=true&background=0b0d10&stroke=242a31&ring=c0392b&fire=e67e22&currStreakLabel=9aa3ad&sideLabels=6f7781&dates=6f7781" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Shataraimut&hide_border=true&background=0b0d10&stroke=242a31&ring=c0392b&fire=e67e22&currStreakLabel=9aa3ad&sideLabels=6f7781&dates=6f7781" alt="Streak" />
 </p>
 
 <p align="center">
